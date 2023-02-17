@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
             
     
-    <wb-module deploy-name="com.ty.jsp_application_eb8_prc">
+    <wb-module deploy-name="jsp_eb9_prc">
                         
         
         <wb-resource deploy-path="/" source-path="/target/m2e-wtp/web-resources"/>
@@ -13,11 +13,8 @@
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
                         
         
-        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/test/java"/>
-                        
-        
         <property name="java-output-path" value="/com.ty.jsp_application_eb8_prc/target/classes"/>
-        <property name="context-root" value="com.ty.jsp_application_eb8_prc"/>
+        <property name="context-root" value="jsp_eb9_prc"/>
                     
     
     </wb-module>
